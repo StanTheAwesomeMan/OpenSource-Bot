@@ -1,0 +1,11 @@
+{
+    "token": "Sike",
+    "prefix": "p!",
+    "logsChannel": "mods",
+    "reportsChannel": "reports",
+  
+    "activity": {
+      "streaming": false,
+      "game": "Deathstep"
+    }
+  }
